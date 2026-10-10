@@ -2,7 +2,7 @@
 Learning GitHub and Git basics
 
 
-## This is my first GitHub repository! I am exploring how GitGub and Git works. I am also learning how version control, Git and GitHub helps developer to maintain their code.
+## This is my first GitHub repository! I am exploring how GitHub and Git works. I am also learning how version control, Git and GitHub helps developer to maintain their code.
 
 ## Recent Updates
 
@@ -18,7 +18,7 @@ Active - currently learning Git and Git workflow.
 
 
 - Git & GitHub fundaments
-- Vesrion control workflows
+- Version control workflows
 - Branching and merging
 - Writing clear commit message
 - VS code and development tools

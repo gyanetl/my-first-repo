@@ -13,3 +13,12 @@ Learning GitHub and Git basics
 ##Project status
 
 Active - currently learning Git and Git workflow.
+
+##Skills I am learning
+
+
+- Git & GitHub fundaments
+- Vesrion control workflows
+- Branching and merging
+- Writing clear commit message
+- VS code and development tools
